@@ -1,26 +1,26 @@
-# Welcome to `nhl.db`
+# Welcome to `hockey.db`
 
 A free open public domain National Hockey League (NHL) database 'n' schema
-(`nhl.db`) for use in any (programming) language
+(`hockey.db`) for use in any (programming) language
 (e.g. uses plain text fixtures/data sets).
 
 
 ## Usage
 
-Use the `sportdb` command line tool to build your own `nhl.db` copy
+Use the `sportdb` command line tool to build your own `hockey.db` copy
 from the plain text fixtures.  Example:
 
 Step 1:  Get a copy of the `world.db` fixtures
 
     $ git clone git://github.com/geraldb/world.db.git
 
-Step 2:  Get a copy the `nhl.db` fixtures
+Step 2:  Get a copy the `hockey.db` fixtures
 
-    $ git clone git://github.com/geraldb/nhl.db.git
+    $ git clone git://github.com/geraldb/hockey.db.git
 
-Step 3:  Let's build the `nhl.db`
+Step 3:  Let's build the `hockey.db`
 
-    $ sportdb setup --include ./nhl.db --worldinclude ./world.db
+    $ sportdb setup --include ./hockey.db --worldinclude ./world.db
 
 That's it.
 See the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby) for more.
@@ -44,7 +44,7 @@ See the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ## License
 
-The `nhl.db` schema, data and scripts are dedicated to the public domain.
+The `hockey.db` schema, data and scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
 ## Questions? Comments?
