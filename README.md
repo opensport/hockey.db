@@ -12,11 +12,11 @@ from the plain text fixtures.  Example:
 
 Step 1:  Get a copy of the `world.db` fixtures
 
-    $ git clone git://github.com/geraldb/world.db.git
+    $ git clone git://github.com/openmundi/world.db.git
 
 Step 2:  Get a copy the `hockey.db` fixtures
 
-    $ git clone git://github.com/geraldb/hockey.db.git
+    $ git clone git://github.com/opensport/hockey.db.git
 
 Step 3:  Let's build the `hockey.db`
 
