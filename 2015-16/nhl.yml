@@ -1,0 +1,39 @@
+###################################
+# Nation Hockey League 2015/16
+#    October 7, 2015 - April 9, 2016
+
+league:   nhl
+season:   2015/16
+start_at: 2015-10-07
+
+30 teams:
+- Anaheim Ducks    ## Pacific
+- Arizona Coyotes
+- Calgary Flames
+- Edmonton Oilers
+- Los Angeles Kings
+- San Jose Sharks
+- Vancouver Canucks
+- Chicago Blackhawks     ## Central
+- Colorado Avalanche
+- Dallas Stars
+- Minnesota Wild
+- Nashville Predators
+- St. Louis Blues
+- Winnipeg Jets
+- Boston Bruins     ## Atlantic
+- Buffalo Sabres
+- Detroit Red Wings
+- Florida Panthers
+- Montreal Canadiens
+- Ottawa Senators
+- Tampa Bay Lightning
+- Toronto Maple Leafs
+- Carolina Hurricanes   ## Metropolitan
+- Columbus Blue Jackets
+- New Jersey Devils
+- New York Islanders
+- New York Rangers
+- Philadelphia Flyers
+- Pittsburgh Penguins
+- Washington Capitals
