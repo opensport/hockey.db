@@ -1,38 +1,265 @@
 ######################################
 # National Hockey League (NHL) Teams
+#
 
-njdevils,     New Jersey Devils,   East/Atlantic, NJD, us, city:newark
-nyislanders,  New York Islanders,  East/Atlantic, NYI, us, city:newyork
-nyrangers,    New York Rangers,    East/Atlantic, NYR, us, city:newyork
-phiflyers,    Philadelphia Flyers, East/Atlantic, PHI, us, city:philadelphia
-pitpenguins,  Pittsburgh Penguins, East/Atlantic, PIT, us, city:pittsburgh
+##################################
+# Eastern Conference > Metropolitan Division
 
-bosbruis,   Boston Bruis,        East/Northeast, BOS, us, city:boston
-bufabres,  Buffalo Sabres,      East/Northeast, BUF, us, city:buffalo
-montreal, Montreal Canadiens,  East/Northeast, MTL, ca, city:montreal
-ottawa,   Ottawa Senators,     East/Northeast, OTT, ca, city:ottawa
-toronto,  Toronto Maple Leafs, East/Northeast, TOR, ca, city:toronto
+[njdevils]
+  New Jersey Devils, NJD, 1974
+  Eastern/Metropolitan
+  // Newark   ## New Jersey
+  wikipedia: New_Jersey_Devils
+  devils.nhl.com
+  us
 
-carhurricanes, Carolina Hurricanes,   East/Southeast, CAR, us, city:raleigh
-florida,   Florida Panthers,     East/Southeast, FLA, us, city:miami
-tblightning,  Tampa Bay Lightning,  East/Southeast, TBL, us, city:tampa
-wshcapitals, Washington Capitals, East/Southeast, WSH, us, city:washington
-winnipeg,   Winnipeg Jets,       East/Southeast, WPG, ca, city:winnipeg
+[nyislanders]
+  New York Islanders, NYI, 1972
+  Eastern/Metropolitan
+  // New York City   ## New York 
+  wikipedia: New_York_Islanders
+  islanders.nhl.com
+  us
 
-chiblackhawks,   Chicago Blackhawks,    West/Central, CHI, us, city:chicago
-columbus,  Columbus Blue Jackets, West/Central, CLB, us, city:columbus
-detredwings,   Detroit Red Wings,     West/Central, DET, us, city:detroit
-nshpredators,  Nashville Predators,  West/Central, NSH, us, city:nashville
-stlblues,    St. Louis Blues,      West/Central, STL, us, city:stlouis
+[nyrangers]
+  New York Rangers, NYR, 1926
+  Eastern/Metropolitan
+  // New York City   ## New York
+  wikipedia: New_York_Rangers
+  rangers.nhl.com
+  us
 
-calgary,     Calgary Flames,     West/Northwest, CGY, ca, city:calgary
-colavalanche,    Colorado Avalanche, West/Northwest, COL, us, city:denver
-edmonton,    Edmonton Oilers,    West/Northwest, EDM, ca, city:edmonton
-minwild,   Minnesota Wild,     West/Northwest, MIN, us, city:stpaul
-vancouver,    Vancouver Canucks, West/Northwest, VAN, ca, city:vancouver
+[phiflyers]
+  Philadelphia Flyers, PHI, 1967
+  Eastern/Metropolitan
+  // Philadelphia   ## Pennsylvania
+  wikipedia: Philadelphia_Flyers
+  flyers.nhl.com
+  us
 
-anaheim,        Anaheim Ducks,     West/Pacific, ANA,  us,  city:anaheim
-dalstars,       Dallas Stars,      West/Pacific, DAL,  us, city:dallas
-loskings,       Los Angeles Kings, West/Pacific, LOS,  us, city:losangeles
-phxcoyotes,      Phoenix Coyotes,   West/Pacific, PHX,  us, city:phoenix
-sjsharks,      San Jose Sharks,   West/Pacific, SHS,  us, city:sanjose
+[pitpenguins]
+  Pittsburgh Penguins, PIT, 1967
+  Eastern/Metropolitan
+  // Pittsburgh   ## Pennsylvania
+  wikipedia: Pittsburgh_Penguins
+  penguins.nhl.com
+  us
+
+[carhurricanes]
+  Carolina Hurricanes, CAR, 1972
+  Eastern/Metropolitan
+  // Raleigh   ## North Carolina
+  wikipedia: Carolina_Hurricanes
+  hurricanes.nhl.com
+  us
+  
+[wshcapitals]
+  Washington Capitals, WSH, 1974
+  Eastern/Metropolitan
+  // Washington   ## D.C.
+  wikipedia: Washington_Capitals
+  capitals.nhl.com
+  us
+
+[columbus]
+  Columbus Blue Jackets, CLB, 1997
+  Eastern/Metropolitan
+  // Columbus   ## Ohio
+  wikipedia: Columbus_Blue_Jackets
+  bluejackets.nhl.com
+  us  
+
+
+#############################
+# Eastern Conference > Atlantic Division
+
+[bosbruis]
+  Boston Bruis, BOS, 1924
+  Eastern/Atlantic
+  // Boston  ## Massachusetts
+  wikipedia: Boston_Bruins
+  bruins.nhl.com
+  us
+
+[bufabres]
+  Buffalo Sabres, BUF, 1970
+  Eastern/Atlantic
+  // Buffalo  ## New York
+  wikipedia: Buffalo_Sabres
+  sabres.nhl.com
+  us
+
+[florida]
+  Florida Panthers, FLA, 1993
+  Eastern/Atlantic
+  // Sunrise   ## Florida  - Miami Metro
+  wikipedia: Florida_Panthers
+  panthers.nhl.com
+  us
+
+[tblightning]
+  Tampa Bay Lightning, TBL, 1992
+  Eastern/Atlantic
+  // Tampa   ## Florida
+  wikipedia: Tampa_Bay_Lightning
+  lightning.nhl.com
+  us
+
+[detredwings]
+  Detroit Red Wings, DET, 1926
+  Eastern/Atlantic
+  // Detroit  ## Michigan 
+  wikipedia: Detroit_Red_Wings
+  redwings.nhl.com
+  us
+
+[montreal]
+  Montreal Canadiens, MTL, 1909
+  Eastern/Atlantic
+  // Montreal  ## Quebec
+  wikipedia: Montreal_Canadiens
+  canadiens.nhl.com
+  ca
+
+[ottawa]
+  Ottawa Senators, OTT, 1990
+  Eastern/Atlantic
+  // Ottawa  ## Ontario
+  wikipedia: Ottawa_Senators
+  senators.nhl.com
+  ca
+
+[toronto]
+  Toronto Maple Leafs, TOR, 1917
+  Eastern/Atlantic
+  // Toronto  ## Ontario
+  wikipedia: Toronto_Maple_Leafs
+  mapleleafs.nhl.com
+  ca
+
+
+
+###############################
+# Western Conference > Central Division
+
+[winnipeg]
+  Winnipeg Jets, WPG, 1999
+  Western/Central
+  // Winnipeg  ## Manitoba
+  wikipedia: Winnipeg_Jets
+  jets.nhl.com
+  ca
+
+[chiblackhawks]
+  Chicago Blackhawks, CHI, 1926
+  Western/Central
+  // Chicago  ## Illinois
+  wikipedia: Chicago_Blackhawks
+  blackhawks.nhl.com
+  us
+
+[nshpredators]
+  Nashville Predators, NSH, 1997
+  Western/Central
+  // Nashville   ## Tennessee
+  wikipedia: Nashville_Predators
+  predators.nhl.com  
+  us
+
+[stlblues]
+  St. Louis Blues, STL, 1967
+  Western/Central
+  // St. Louis  ## Missouri
+  wikipedia: St._Louis_Blues
+  blues.nhl.com
+  us
+
+[colavalanche]
+  Colorado Avalanche, COL, 1972
+  Western/Central
+  // Denver   ## Colorado
+  wikipedia: Colorado_Avalanche
+  avalanche.nhl.com
+  us
+  
+[minwild]
+  Minnesota Wild, MIN, 1997
+  Western/Central
+  // St. Paul   ## Minnesota
+  wikipedia: Minnesota_Wild
+  wild.nhl.com
+  us 
+
+[dalstars]
+  Dallas Stars, DAL, 1967
+  Western/Central
+  // Dallas   ## Texas
+  wikipedia: Dallas_Stars
+  stars.nhl.com
+  us
+
+
+
+################
+#  Western Conference > Pacific Division
+
+[calgary[
+  Calgary Flames, CGY, 1972
+  Western/Pacific
+  // Calgary   ## Alberta
+  wikipedia: Calgary_Flames
+  flames.nhl.com
+  ca
+
+[edmonton]
+  Edmonton Oilers, EDM, 1972
+  Western/Pacific
+  // Edmonton   ## Alberta
+  wikipedia: Edmonton_Oilers
+  oilers.nhl.com
+  ca
+
+[vancouver]
+  Vancouver Canucks, VAN, 1970
+  Western/Pacific
+  Vancouver   ## British Columbia
+  wikipedia: Vancouver_Canucks
+  canucks.nhl.com
+  ca
+
+
+[anaheim]
+  Anaheim Ducks, ANA, 1993
+  Western/Pacific
+  // Anaheim     ## California  - Los Angeles Metro
+  wikipedia: Anaheim_Ducks
+  ducks.nhl.com
+  us
+
+[loskings]
+  Los Angeles Kings, LOS, 1967
+  Western/Pacific
+  // Los Angeles  ## California
+  wikipedia: Los_Angeles_Kings
+  kings.nhl.com
+  us
+
+[arizona]
+  Arizona_Coyotes, ARI, 1972
+  Western/Pacific
+  // Phoenix   ## Arizona
+  wikipedia: Arizona_Coyotes
+  coyotes.nhl.com
+  us
+
+## note: named
+##  Phoenix Coyotes (1996-2014)
+
+
+[sjsharks]
+  San Jose Sharks, SHS, 1991
+  Western/Pacific
+  // San Jose   ## California
+  wikipedia: San_Jose_Sharks
+  sharks.nhl.com
+  us
