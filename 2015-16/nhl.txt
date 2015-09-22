@@ -1,0 +1,147 @@
+##
+# note: follows nhl convention
+#  the first team is the away team
+#  the second team is the home team
+
+
+##
+# use week 1, week 2 etc.
+#  when does the week start e.g. Tuesday to Monday ??
+
+
+Week 1  | Tue Oct/6  - Mon Oct/12
+Week 2  | Tue Oct/13 - Mon Oct/19
+Week 3  | Tue Oct/20
+
+
+
+Week 1
+
+[Wed Oct/7]
+  Montreal        Toronto
+  N.Y. Rangers    Chicago
+  Vancouver       Calgary
+  San Jose        Los Angeles
+
+[Thu Oct/8]
+  Ottawa          Buffalo
+  Winnipeg        Boston
+  Philadelphia    Tampa Bay
+  Carolina        Nashville
+  Edmonton        St. Louis
+  Pittsburgh      Dallas
+  Minnesota       Colorado
+
+[Fri Oct/9]
+  Winnipeg        New Jersey
+  N.Y. Rangers    Columbus
+  Toronto         Detroit
+  Chicago         N.Y. Islanders
+  Arizona         Los Angeles
+
+[Sat Oct/10]
+  Tampa Bay       Buffalo
+  Detroit         Carolina
+  Columbus        N.Y. Rangers
+  Philadelphia    Florida
+  Montreal        Boston
+  Ottawa          Toronto
+  Edmonton        Nashville
+  New Jersey      Washington
+  St. Louis       Minnesota
+  N.Y. Islanders  Chicago
+  Dallas          Colorado
+  Pittsburgh      Arizona
+  Calgary         Vancouver
+  Anaheim         San Jose
+
+[Sun Oct/11]
+  Montreal        Ottawa
+
+[Mon Oct/12]
+  Winnipeg        N.Y. Islanders
+  Tampa Bay       Boston
+  Columbus        Buffalo
+  Florida         Philadelphia
+  Vancouver       Anaheim
+
+
+Week 2
+
+[Tue Oct/13]
+  Winnipeg        N.Y. Rangers
+  Florida         Carolina
+  San Jose        Washington
+  Nashville       New Jersey
+  Montreal        Pittsburgh
+  Tampa Bay       Detroit
+  Edmonton        Dallas
+  St. Louis       Calgary
+  Vancouver       Los Angeles
+
+[Wed Oct/14]
+  Ottawa          Columbus
+  Chicago         Philadelphia
+  Boston          Colorado
+  Arizona         Anaheim
+
+[Thu Oct/15]
+  Ottawa          Pittsburgh
+  Chicago         Washington
+  Nashville       N.Y. Islanders
+  N.Y. Rangers    Montreal
+  Buffalo         Florida
+  Dallas          Tampa Bay
+  St. Louis       Edmonton
+  Minnesota       Arizona
+
+[Fri Oct/16]
+  San Jose        New Jersey
+  Toronto         Columbus
+  Carolina        Detroit
+  Calgary         Winnipeg
+  Colorado        Anaheim
+  St. Louis       Vancouver
+  Minnesota       Los Angeles
+
+[Sat Oct/17]
+  Carolina        Washington
+  Dallas          Florida
+  Detroit         Montreal
+  Toronto         Pittsburgh
+  Nashville       Ottawa
+  Buffalo         Tampa Bay
+  San Jose        N.Y. Islanders
+  Columbus        Chicago
+  Boston          Arizona
+  Edmonton        Calgary
+
+[Sun Oct/18]
+  New Jersey      N.Y. Rangers
+  St. Louis       Winnipeg
+  Minnesota       Anaheim
+  Edmonton        Vancouver
+  Colorado        Los Angeles
+
+[Mon Oct/19]
+  San Jose        N.Y. Rangers
+
+
+Week 3
+
+[Tue Oct/20]
+  N.Y. Islanders  Columbus
+  Florida         Pittsburgh
+  Arizona         New Jersey
+  St. Louis       Montreal
+  Dallas          Philadelphia
+  Tampa Bay       Nashville
+  Washington      Calgary
+
+[Wed Oct/21]
+  Toronto         Buffalo
+  Philadelphia    Boston
+  Detroit         Edmonton
+  Carolina        Colorado
+
+
